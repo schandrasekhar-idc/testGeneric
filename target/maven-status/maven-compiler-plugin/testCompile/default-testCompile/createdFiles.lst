@@ -1,0 +1,11 @@
+credentials\MCAlg_ElementLocators.class
+objectRepository\MCAlg_PartnersPage.class
+testCases\MCAlg_Application.class
+netAppNGDC\NetAppGermanTest.class
+objectRepository\MCAlg_MyProfilePage.class
+CS\APJ_WorkshopTest.class
+objectRepository\MCAlg_LoginPage.class
+CS\AppiumTest.class
+credentials\MCAlg_loginProperties.class
+objectRepository\MCAlg_HomePage.class
+testCases\MCAlg_ApplicationPartners.class
